@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Yohan
 
 <!--
 **yohanfs/yohanfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Saya adalah insinyur listrik yang suka bidang IT
+- Sekarang saya sedang studi PhD
+- Silakan kunjungi website pribadi saya [di sini](www.catatansidik.xyz)
+
