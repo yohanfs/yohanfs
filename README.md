@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - Saya adalah insinyur listrik yang suka bidang IT
 - Sekarang saya sedang studi PhD
-- Silakan kunjungi website pribadi saya [di sini](www.catatansidik.xyz)
+- Silakan kunjungi website pribadi saya [di sini](https://catatansidik.xyz)
 
