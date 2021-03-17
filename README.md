@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 **Accounts**
 
-[Google Scholar](https://scholar.google.com/citations?user=zRZB_Q0AAAAJ&hl=de&oi=ao)
-
+[Google Scholar](https://scholar.google.com/citations?user=zRZB_Q0AAAAJ&hl=de&oi=ao) | 
+[Semantic Scholar](https://www.semanticscholar.org/author/Yohan-Fajar-Sidik/100969224) |
+[Research Gate](https://www.researchgate.net/profile/Yohan-Fajar-Sidik)
 
